@@ -1,0 +1,29 @@
+
+footer {
+    background-color: #1377AF;
+    width: 99%;
+    display: flex;
+    flex-direction: row;
+    color: white;
+    justify-content: center;
+    padding: 30px;
+}
+
+#right_footer {
+    text-align: right;
+}
+
+#right_footer > p {
+    font-size: 30px;
+}
+
+#site {
+    font-size: 80px;
+    margin: 0;
+}
+
+.flexRow {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
